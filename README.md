@@ -45,4 +45,4 @@
 - You can find more explanation on the scikit-learn documentation page: https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
 **Accuracy**
 - And here we go! The accuracy turned out to be 95.07%!
-![](/images/6.png)
+![](/accuracy.png)
